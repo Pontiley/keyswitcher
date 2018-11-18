@@ -129,6 +129,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S' or 'Ctrl+Alt+ы'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TaskManagerApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>

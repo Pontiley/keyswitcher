@@ -177,6 +177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Player'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Player'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TaskControllerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -263,6 +271,14 @@
           <ShortCut>'Ctrl+Alt+S' or 'Ctrl+Alt+ы'</ShortCut>
           <Description>Settings...</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Player'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Player'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TaskManagerApplication'">

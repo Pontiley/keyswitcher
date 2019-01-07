@@ -349,6 +349,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt x" />
     <keyboard-shortcut first-keystroke="shift ctrl alt #1000447" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+    <mouse-shortcut keystroke="shift control alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
     <keyboard-shortcut first-keystroke="shift ctrl #1000443" />

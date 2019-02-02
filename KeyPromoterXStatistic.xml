@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Ctrl+и'</ShortCut>
           <Description>GoTo</Description>
-          <Count>242</Count>
+          <Count>251</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -247,6 +247,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'TaskControllerTest.shouldCreateTask'</Description>
           <Count>61</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TaskControllerTest.shouldReturnCreatedStatusWhenCreateValidTask'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TaskControllerTest.shouldReturnCreatedStatusWhenCreateValidTask'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TaskControllerTest.shouldReturnValidationError'">
@@ -454,7 +462,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

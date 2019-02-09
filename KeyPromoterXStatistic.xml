@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K' or 'Ctrl+л'</ShortCut>
           <Description>Commit...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -470,7 +470,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Tests in 'ru.create.me.task.manager.web.controller''</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UserControllerApiTest'">
@@ -622,7 +622,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

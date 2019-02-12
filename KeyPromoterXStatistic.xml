@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K' or 'Ctrl+л'</ShortCut>
           <Description>Commit...</Description>
-          <Count>50</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -38,7 +38,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -582,7 +582,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y' or 'Ctrl+Alt+н'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">

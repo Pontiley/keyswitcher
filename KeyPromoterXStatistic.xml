@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Ctrl+и'</ShortCut>
           <Description>GoTo</Description>
-          <Count>377</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -174,7 +174,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>60</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter...">
@@ -214,7 +214,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+8' or 'Ctrl+Alt+Shift+Button1 Click' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>25</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -254,7 +254,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'AuthTokenApiTest.afterAuthenticationTokenIsNotEmpty'</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Player'">
@@ -446,7 +446,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>230</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AuthTokenApiTest.afterAuthenticationTokenIsNotEmpty'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Player'">
@@ -646,7 +646,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>132</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -670,7 +670,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

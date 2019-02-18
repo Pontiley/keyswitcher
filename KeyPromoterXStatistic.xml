@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Ctrl+и'</ShortCut>
           <Description>GoTo</Description>
-          <Count>375</Count>
+          <Count>377</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -239,6 +239,22 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove Watch</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AuthTokenApiTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AuthTokenApiTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AuthTokenApiTest.afterAuthenticationTokenIsNotEmpty'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AuthTokenApiTest.afterAuthenticationTokenIsNotEmpty'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Player'">
@@ -446,7 +462,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Player'">
@@ -519,6 +535,14 @@
           <ShortCut>'Ctrl+Alt+S' or 'Ctrl+Alt+ы'</ShortCut>
           <Description>Settings...</Description>
           <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AuthTokenApiTest.afterAuthenticationTokenIsNotEmpty'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AuthTokenApiTest.afterAuthenticationTokenIsNotEmpty'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Player'">

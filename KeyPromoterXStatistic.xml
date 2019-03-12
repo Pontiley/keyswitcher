@@ -321,6 +321,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TaskCategoryRepositoryAuthTest.saveCategoryToAnyUserByAuthAdmin'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TaskCategoryRepositoryAuthTest.saveCategoryToAnyUserByAuthAdmin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TaskControllerApiTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>

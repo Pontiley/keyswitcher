@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TaskManagerApplication'</Description>
-          <Count>130</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -854,7 +854,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TaskManagerApplication'</Description>
-          <Count>70</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserRepositoryAuthTest.returnEmptyUserWhenAuthUserCannotFoundUserById'">

@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K' or 'Ctrl+л'</ShortCut>
           <Description>Commit...</Description>
-          <Count>113</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TaskManagerApplication'</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Ctrl+и'</ShortCut>
           <Description>GoTo</Description>
-          <Count>824</Count>
+          <Count>830</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -638,7 +638,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>524</Count>
+          <Count>525</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -854,7 +854,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TaskManagerApplication'</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserRepositoryAuthTest.returnEmptyUserWhenAuthUserCannotFoundUserById'">
@@ -910,7 +910,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -942,7 +942,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>169</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

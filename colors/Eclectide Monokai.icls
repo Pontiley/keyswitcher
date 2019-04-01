@@ -773,6 +773,12 @@
         <option name="ERROR_STRIPE_COLOR" value="287bde" />
       </value>
     </option>
+    <option name="TS.BADCHARACTER">
+      <value>
+        <option name="FOREGROUND" value="ff9749" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TS.BRACES">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
